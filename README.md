@@ -1,7 +1,7 @@
 # Insurance Premium Prediction
 
 ## Problem Statement
-The goal of this project is to analyze the relationship between various individual factors (such as age, physical condition, family background, and location) and medical expenses, and to build a predictive model for estimating future medical costs. This model can assist both individuals and medical insurance companies by providing data-driven insights. For individuals, the model offers an estimate of expected medical expenses, helping them make informed decisions when selecting insurance plans. For insurers, the model aids in setting premium rates based on personalized risk profiles.
+The goal of this project is to analyze the relationship between various individual factors—such as age, sex, BMI, number of children, smoking habits, and region of residence—and medical expenses. A predictive model is developed to estimate the annual medical expenditure for new customers based on these factors. This model will assist medical insurance companies in making data-driven decisions when determining premium rates charged to individuals.
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle. It can be downloaded from [here](https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction/data).
