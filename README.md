@@ -9,10 +9,8 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 
 ## Approach
 
-### Data Exploration
-- Utilized **pandas**, **matplotlib**, and **seaborn** to thoroughly investigate the dataset.
-
 ### Exploratory Data Analysis (EDA)
+- Utilized **pandas**, **matplotlib**, and **seaborn** to thoroughly investigate the dataset.
 - Generated various plots to uncover insights into the relationships between dependent and independent variables/features.
 
 ### Feature Engineering
