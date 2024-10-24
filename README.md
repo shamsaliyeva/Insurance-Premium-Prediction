@@ -28,8 +28,6 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 
 ### Model Selection
 - Evaluated all models based on their **Root Mean Square Error (RMSE)** and **R-squared** values to identify the best performer.
-
-### Pickle File Creation
 - Selected the model with the optimal RMSE and R-squared scores, and created a pickle file using the **pickle** library.
 
 ### Web Application Development
