@@ -40,7 +40,6 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 Below are screenshots of the web application interface:
 
 ![Screenshot 1](webapp/1.png)
-![Screenshot 2](webapp/2.png)
 
 ### Running the App
 To run the web application in your working directory, use the following command:
