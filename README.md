@@ -34,3 +34,16 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 - Developed a web application using **Streamlit**, an open-source Python framework designed for data scientists and AI/ML engineers.
 - The app collects necessary user inputs and estimates the customer's insurance expenses.
 
+## Web App Interface
+
+Below are screenshots of the web application interface:
+
+![Screenshot 1](webapp/1.png)
+![Screenshot 2](webapp/screenshot2.png)
+
+### Running the App
+To run the web application in your working directory, use the following command:
+
+```bash
+streamlit run app.py
+
