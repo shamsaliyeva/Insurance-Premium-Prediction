@@ -35,7 +35,7 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 
 ## Web App Interface
 
-Below are screenshots of the web application interface:
+Below is screenshot of the web application interface:
 
 ![Screenshot 1](webapp/1.png)
 
