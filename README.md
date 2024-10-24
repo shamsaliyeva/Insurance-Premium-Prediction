@@ -8,20 +8,31 @@ The dataset used in this project is sourced from Kaggle. It can be downloaded fr
 
 ## Approach
 
-### Data Exploration: Utilized pandas, matplotlib, and seaborn to investigate the dataset.
+### Data Exploration
+- Utilized **pandas**, **matplotlib**, and **seaborn** to thoroughly investigate the dataset.
 
-### Exploratory Data Analysis (EDA): Generated various plots to gain insights into the relationships between dependent and independent variables/features.
+### Exploratory Data Analysis (EDA)
+- Generated various plots to uncover insights into the relationships between dependent and independent variables/features.
 
-### Feature Engineering: Scaled numerical features and applied one-hot encoding to categorical features.
+### Feature Engineering
+- Scaled numerical features.
+- Applied one-hot encoding to categorical features for improved model performance.
 
-### Model Building: Split the dataset into training and testing sets, followed by training models using several machine learning algorithms, including:
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
+### Model Building
+- Split the dataset into training and testing sets.
+- Trained models using several machine learning algorithms, including:
+  - **Linear Regression**
+  - **Decision Tree Regressor**
+  - **Random Forest Regressor**
+  - **Gradient Boosting Regressor**
 
-### Model Selection: Evaluated all models based on their RMSE and R-squared values to determine the best performer.
+### Model Selection
+- Evaluated all models based on their **Root Mean Square Error (RMSE)** and **R-squared** values to identify the best performer.
 
-### Pickle File Creation: Chose the model with the optimal RMSE and R-squared scores, and created a pickle file using the pickle library.
+### Pickle File Creation
+- Selected the model with the optimal RMSE and R-squared scores, and created a pickle file using the **pickle** library.
 
-### Web Application Development: Developed a web application using Streamlit, an open-source Python framework designed for data scientists and AI/ML engineers to create interactive data applications. The app collects necessary user inputs and estimates the customer's insurance expenses.
+### Web Application Development
+- Developed a web application using **Streamlit**, an open-source Python framework designed for data scientists and AI/ML engineers.
+- The app collects necessary user inputs and estimates the customer's insurance expenses.
+
